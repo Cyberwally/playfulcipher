@@ -19,3 +19,5 @@ My recommendation would be for the creation of Capture the Flag challenges where
 DECODE WARNING: 
 I have not created a tool that will automaticaly decode the cipher. Right now the only way to decode the cipher is by using hashcat and vigenere cipher cracking tool. 
 #authors note: This readme file will be updated as necessary.
+
+#Author Note: This readme file will be updated as necessary. 
