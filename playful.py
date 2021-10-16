@@ -49,9 +49,9 @@ def playful_enc():
 #Reverse cipher
 reverse = playful_enc()[::-1]
 
-#Reverse cipher into sha1 hash
+#Reverse cipher into sha3_512 hash
 import hashlib
 
-result = hashlib.sha1(reverse.encode())
+result = hashlib.sha3_512(reverse.encode())
 
 print (result.hexdigest())
