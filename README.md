@@ -16,4 +16,6 @@ Yes, but I would not recommend it. While online tools such as crackstation and C
 
 My recommendation would be for the creation of Capture the Flag challenges where the emphasis is on encryption and cryptography. You could also use the cipher for passing messages between friends if you like using fun ciphers to pass unimportant information between you and a friend.
 
+DECODE WARNING: 
+I have not created a tool that will automaticaly decode the cipher. Right now the only way to decode the cipher is by using hashcat and vigenere cipher cracking tool. 
 #authors note: This readme file will be updated as necessary.
