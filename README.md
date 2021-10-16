@@ -1,6 +1,4 @@
-# playfulcipher
-
-PLAYFUL CIPHER
+# PLAYFUL CIPHER
 
 WHAT IS THIS?
 
